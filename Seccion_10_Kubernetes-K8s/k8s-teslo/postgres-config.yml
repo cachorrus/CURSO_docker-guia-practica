@@ -1,0 +1,9 @@
+#https://kubernetes.io/es/docs/concepts/configuration/configmap/
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgres-config
+data:
+  DB_NAME: postgres
+  DB_HOST: postgres-service
+  DB_PORT: "5432" 
