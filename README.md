@@ -11,3 +11,4 @@ https://github.com/Klerith/docker-ejercicios
 - https://learn.microsoft.com/es-es/windows/wsl/install
 - https://learn.microsoft.com/es-mx/windows/dev-environment/javascript/nodejs-on-wsl
 - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+- https://devtalles.com/files/docker-cheat-sheet.pdf
